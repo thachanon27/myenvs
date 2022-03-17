@@ -1,4 +1,5 @@
 import argparse
+import gym
 import pprint
 from ray import tune
 import ray
